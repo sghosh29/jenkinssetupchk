@@ -1,0 +1,52 @@
+4/06/2018 ------------------------------------------------------------------8/06/2018
+
+calnet01prd0-Calrs-Nets-Interface --276
+ccs-0041prd0-CCDSAP-ASTRA-PC -- 59
+ifz-0001prd0-InfoZone Maintenance --1988
+
+
+
+ccard-01dev0-CCARD-T -- 9321
+cdsa-001prd0-CDS Action --10770
+
+
+
+cbf-0001prd0-Centralized Business Function --2612
+citsc001prd0-CIT Strategy Configurator --42
+homat-01prd0-Homing Matrix --5503
+
+
+cmor-000prd0-CMOR -- 15646
+gpt-0001doc0-Geospatial Planning Tool --6861
+
+
+
+gsi-0001prd0-GSI --642
+gtm-0001prd0-Gestache-TaskManager --6
+cit-0001prd0-SMB View
+
+
+4/06/2018 ------------------------------------------------------------------8/06/2018
+11/06/2018 -----------------------------------------------------------------15/06/2018
+
+cce-0001dev0-Customer Communication Engine
+cce-0001dev2-CCE BRS37 Release
+
+
+evo-0010prd0-bell.ca WebLogic 8.1 Support-RO
+evo-0011prd0-bell.ca WebLogic 10 Support-RO
+evo-0012prd0-bell.ca WebLogic 10 Support
+
+gtr-0001prd0-GTR API-RO
+gtr-0002prd0-GTR API-Uniform Upgrade
+
+
+
+
+
+
+
+
+
+
+

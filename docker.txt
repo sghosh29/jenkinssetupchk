@@ -1,0 +1,23 @@
+yum install docker
+    2  docker
+    3  apt install docker.io
+    4  yum install epel-release
+    5  apt install epel-release
+    6  systemctl start docker
+    7  systemctl status docker
+    8  systemctl enable docker
+    9  service docker start
+   10  service docker status
+   11  chkconfig docker on
+   12  chkconfig
+   13  docker run hello-world
+   14  docker info
+   15*
+   16  docker info
+   17  service docker status
+   18  pwd
+   19  run
+   20  history
+
+
+Shilpa Ravi Payel Gupta
